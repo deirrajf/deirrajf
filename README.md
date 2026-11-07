@@ -1,4 +1,6 @@
-<h1 align="center">Deirra Decoded</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Deirra Decoded" width="100%">
+</p>
 <p align="center"><b>Securing the Future</b></p>
 <p align="center">
   At the intersection of network security and AI
