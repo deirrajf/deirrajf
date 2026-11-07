@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://deirrafootman.substack.com"><img src="https://cdn.simpleicons.org/substack/8B5CF6" alt="Substack" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://cdn.simpleicons.org/youtube/8B5CF6" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/deirradecoded"><img src="https://cdn.simpleicons.org/x/8B5CF6" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/deirradecoded"><img src="https://cdn.simpleicons.org/instagram/8B5CF6" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@deirradecoded"><img src="https://cdn.simpleicons.org/tiktok/8B5CF6" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://deirrafootman.substack.com"><img src="https://cdn.simpleicons.org/substack/3B82F6" alt="Substack" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://cdn.simpleicons.org/youtube/3B82F6" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/deirradecoded"><img src="https://cdn.simpleicons.org/x/3B82F6" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/deirradecoded"><img src="https://cdn.simpleicons.org/instagram/3B82F6" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@deirradecoded"><img src="https://cdn.simpleicons.org/tiktok/3B82F6" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;
 </p>
 <p align="center"><a href="https://www.deirradecoded.com">deirradecoded.com</a></p>
 
