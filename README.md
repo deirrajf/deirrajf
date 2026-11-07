@@ -19,7 +19,9 @@
 
 I'm Deirra, a network security leader and content creator with 16+ years of experience designing and securing the networks that keep businesses connected. My background spans routing and switching, data center networking, and network security, with deep roots in Cisco ISE and identity-based access.
 
-These days I'm focused on where secure networks meet AI: segmentation, identity, and Zero Trust, plus how agentic AI can be built and secured for the enterprise. You can follow what I'm learning on my [blog](https://deirrafootman.substack.com).
+These days I'm focused on where secure networks meet AI: segmentation, identity, and Zero Trust, plus how agentic AI can be built and secured for the enterprise. I care deeply about AI being deployed securely and safely, which draws me to AI policy, risk, and governance: the guardrails that let organizations adopt AI with confidence.
+
+You can follow what I'm learning on my [blog](https://deirrafootman.substack.com).
 
 ## 🔐 What I focus on
 
