@@ -1,11 +1,11 @@
 <p align="center"><b>Deirra Decoded</b> | <i>At the intersection of network security and AI</i></p>
 
 <p align="center">
-  <a href="https://deirrafootman.substack.com"><img src="https://cdn.simpleicons.org/substack/6D28D9" alt="Substack" width="22" height="22"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://cdn.simpleicons.org/youtube/6D28D9" alt="YouTube" width="22" height="22"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/deirradecoded"><img src="https://cdn.simpleicons.org/x/6D28D9" alt="X" width="22" height="22"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/deirradecoded"><img src="https://cdn.simpleicons.org/instagram/6D28D9" alt="Instagram" width="22" height="22"></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@deirradecoded"><img src="https://cdn.simpleicons.org/tiktok/6D28D9" alt="TikTok" width="22" height="22"></a>&nbsp;&nbsp;
+  <a href="https://deirrafootman.substack.com"><img src="https://cdn.simpleicons.org/substack/6D28D9" alt="Substack" width="18" height="18"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://cdn.simpleicons.org/youtube/6D28D9" alt="YouTube" width="18" height="18"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/deirradecoded"><img src="https://cdn.simpleicons.org/x/6D28D9" alt="X" width="18" height="18"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/deirradecoded"><img src="https://cdn.simpleicons.org/instagram/6D28D9" alt="Instagram" width="18" height="18"></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@deirradecoded"><img src="https://cdn.simpleicons.org/tiktok/6D28D9" alt="TikTok" width="18" height="18"></a>&nbsp;&nbsp;
 </p>
 <p align="center"><a href="https://www.deirradecoded.com">deirradecoded.com</a></p>
 
