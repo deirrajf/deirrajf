@@ -30,9 +30,9 @@ These days I'm focused on where secure networks meet AI: segmentation, identity,
 
 ## 📚 What I'm learning
 
-- **AI solutions architecture:** designing and shipping AI systems that hold up in the enterprise
+- **AI solutions architecture:** understanding how to design and deploy effective AI solutions for enterprises
 - **Agentic AI security:** how to secure agents, their tools, and the data they touch
-- **AI/Agentic Ops:** putting agents to work in operations to triage, document, and report alongside engineers
+- **AI/Agentic Ops:** putting agents to work alongside engineers in networking and network security
 
 *I share what I learn along the way on [Engineering the Loop](https://deirrafootman.substack.com).*
 
