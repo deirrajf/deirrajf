@@ -1,15 +1,17 @@
 <h1 align="center">Deirra Decoded</h1>
 <p align="center"><b>Securing the Future</b></p>
 <p align="center">
-  Network security · Segmentation · Identity · Zero Trust · AI security · Agentic workflows
+  At the intersection of network security and AI
 </p>
 
 <p align="center">
-  <a href="https://www.deirradecoded.com"><img src="https://img.shields.io/badge/Website-deirradecoded.com-6D28D9?style=for-the-badge" alt="Website"></a>
-  <a href="https://deirrafootman.substack.com"><img src="https://img.shields.io/badge/Substack-Engineering_the_Loop-C026D3?style=for-the-badge&logo=substack&logoColor=white" alt="Engineering the Loop"></a>
-  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://img.shields.io/badge/YouTube-Deirra_Decoded-DB2777?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://twitter.com/deirradecoded"><img src="https://img.shields.io/badge/X-@deirradecoded-7C3AED?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://deirrafootman.substack.com"><img src="https://cdn.simpleicons.org/substack/8B5CF6" alt="Substack" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC2gnRRBTrVaMtnZ5ZU9yBuA"><img src="https://cdn.simpleicons.org/youtube/8B5CF6" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/deirradecoded"><img src="https://cdn.simpleicons.org/x/8B5CF6" alt="X" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/deirradecoded"><img src="https://cdn.simpleicons.org/instagram/8B5CF6" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@deirradecoded"><img src="https://cdn.simpleicons.org/tiktok/8B5CF6" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;
 </p>
+<p align="center"><a href="https://www.deirradecoded.com">deirradecoded.com</a></p>
 
 ---
 
