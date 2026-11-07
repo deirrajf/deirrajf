@@ -1,4 +1,4 @@
-<p align="center"><b>Securing the Future</b></p>
+<p align="center"><b>Deirra Decoded</b> | <i>Securing the Future</i></p>
 <p align="center">
   At the intersection of network security and AI
 </p>
