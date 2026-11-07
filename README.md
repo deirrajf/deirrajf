@@ -28,7 +28,7 @@ You can follow what I'm learning on my [blog](https://deirrafootman.substack.com
 - **Network security & segmentation:** policy, NAC, and getting traffic where it should (and only where it should) go
 - **Identity & Zero Trust:** identity-driven access as the foundation, not the afterthought
 - **AI security:** risk and compliance for the AI tools organizations are rushing to adopt
-- **Agentic AI & workflows:** practical agents that triage, document, and deliver alongside engineers
+- **Agentic AI & workflows:** practical agents that work alongside engineers
 
 ## 📚 What I'm learning
 
