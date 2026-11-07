@@ -17,7 +17,8 @@
 
 ---
 
-## 👋 Hi, I'm Deirra
+<details>
+<summary><b>👋 About me</b> (click to expand)</summary>
 
 I'm Deirra, a network security leader and content creator with 16+ years of experience designing and securing the networks that keep businesses connected. My background spans routing and switching, data center networking, and network security, with deep roots in Cisco ISE and identity-based access.
 
@@ -25,14 +26,14 @@ These days I'm focused on where secure networks meet AI: segmentation, identity,
 
 You can follow what I'm learning on my [blog](https://deirrafootman.substack.com).
 
-## 🔐 What I focus on
+### 🔐 What I focus on
 
 - **Network security & segmentation:** policy, NAC, and getting traffic where it should (and only where it should) go
 - **Identity & Zero Trust:** identity-driven access as the foundation, not the afterthought
 - **AI security:** risk and compliance for the AI tools organizations are rushing to adopt
 - **Agentic AI & workflows:** practical agents that work alongside engineers
 
-## 📚 What I'm learning
+### 📚 What I'm learning
 
 - **Security beyond the network:** deepening my knowledge across the broader security landscape, with a focus on risk, compliance, and security defense
 - **AI solutions architecture:** understanding how to design and deploy effective AI solutions for enterprises
@@ -41,12 +42,14 @@ You can follow what I'm learning on my [blog](https://deirrafootman.substack.com
 
 *I share what I learn along the way on [Engineering the Loop](https://deirrafootman.substack.com).*
 
-## 🧠 Side project: Cortex & Code
+### 🧠 Side project: Cortex & Code
 
 Beyond the packets and prompts, I'm curious about what technology is doing to *us*. On [Cortex & Code](https://cortexandcode.substack.com/), I explore technical and digital philosophy: how AI and the tools we build are reshaping attention, identity, work, and what it means to be human.
 
-## 📫 Let's connect
+### 📫 Let's connect
 
 Speaking, podcast guesting, or collaboration on security and AI delivery: reach out through [deirradecoded.com](https://www.deirradecoded.com). All my links live at [beacons.ai/deirradecoded](https://beacons.ai/deirradecoded).
+
+</details>
 
 <p align="center"><i>Decode the complexity. Secure what matters.</i></p>
