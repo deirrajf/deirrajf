@@ -32,7 +32,7 @@ You can follow what I'm learning on my [blog](https://deirrafootman.substack.com
 
 ## 📚 What I'm learning
 
-- **Security beyond the network:** deepening my knowledge across the broader security landscape, from risk management to cloud and application security
+- **Security beyond the network:** deepening my knowledge across the broader security landscape, with a focus on risk, compliance, and security defense
 - **AI solutions architecture:** understanding how to design and deploy effective AI solutions for enterprises
 - **Agentic AI security:** how to secure agents, their tools, and the data they touch
 - **AI/Agentic Ops:** putting agents to work alongside engineers in networking and network security
