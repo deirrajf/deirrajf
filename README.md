@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary><b>👋 About me</b> (click to expand)</summary>
+<summary><b>👋 About me</b> 
 
 I'm Deirra, a network security leader and content creator with 16+ years of experience designing and securing the networks that keep businesses connected. My background spans routing and switching, data center networking, and network security, with deep roots in Cisco ISE and identity-based access.
 
@@ -20,7 +20,7 @@ These days I'm focused on where secure networks meet AI: segmentation, identity,
 
 You can follow what I'm learning on my [blog](https://deirrafootman.substack.com).
 
-### 🔐 What I focus on
+### 🔐 What I focus on (click to expand)</summary>
 
 - **Network security & segmentation:** policy, NAC, and getting traffic where it should (and only where it should) go
 - **Identity & Zero Trust:** identity-driven access as the foundation, not the afterthought
